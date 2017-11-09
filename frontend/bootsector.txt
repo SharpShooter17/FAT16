@@ -1,0 +1,24 @@
+//struktura ma 520bajtow...
+struct Boot_sector_t {
+	int Jump_Code : 8 * 3;
+	unsigned char OEM_Name[8];
+	short Bytes_oer_sector : 16;
+	unsigned char Sectors_per_claster : 8;
+	short Reserved_claster : 16;
+	unsigned char Num_of_copies : 8;
+	short Maximum_rots_dir : 16;
+	short Num_of_sectots : 16;
+	unsigned char Media_descriptor : 8;
+	short Sectors_per_FAT : 16;
+	short Sectors_per_track : 16;
+	short Num_per_Heads : 16;
+	__int32 Num_of_Hidden_sectors_in_partition : 32;
+	__int32 Num_of_sectors_in_partition : 32;
+	short Logical_drive_num_of_partition : 16;
+	unsigned char Extended_signature : 8;
+	__int32 Serial_num_of_partition : 32;
+	unsigned char Volume_name_of_partition[11];
+	unsigned char FAT_Name[8];
+	unsigned char Exe_code[448];
+	short exe_marker : 16;
+};

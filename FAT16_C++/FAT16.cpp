@@ -104,7 +104,7 @@ FAT16::FAT16(const char * file_name) : file(file_name, std::ios_base::in | std::
 FAT16::~FAT16()
 {
 	delete[] Root_dir;
-	delete [] FAT;
+	delete[] FAT;
 	file.close();
 }
 

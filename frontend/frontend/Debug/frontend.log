@@ -1,0 +1,17 @@
+﻿  device.cpp
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(206): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(207): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(208): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(213): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(214): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(215): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(220): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(221): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(222): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(227): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(228): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(229): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(233): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(234): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bujaz\desktop\frontend\frontend\device.cpp(235): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  frontend.vcxproj -> C:\Users\bujaz\Desktop\frontend\Debug\frontend.exe

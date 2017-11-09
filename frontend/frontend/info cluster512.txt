@@ -1,0 +1,18 @@
+OEM_Name: MSDOS5.0
+Bytes per sector: 512
+Sectors per claster: 1
+Reserved claster: 4
+Number of copies: 2
+Maximum roots directions: 512
+Number of sectors: 0
+Media descriptor: 248
+Sectors per FAT: 254
+Sectors per track: 63
+Number per Heads: 16
+Number of hidden sectors in partition: 1
+Number of sectors in partition: 65536
+Logical drive number of partition: 128
+Extended signature: 41
+Serial number of partition: 1357948938
+Volume name of partition: NO NAME
+FAT Name: FAT16
